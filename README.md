@@ -9,6 +9,7 @@ I'm Mathis URIEN, a software engineer studying at [ENSTA Bretagne](https://www.e
 ### School projects
 [![Projet C - ENSTA Bretagne](https://github-readme-stats.vercel.app/api/pin/?username=lbf38&repo=projetc&theme=dark&hide_border=true)](https://github.com/lbf38/projetc)
 [![Projet Java - ENSTA Bretagne](https://github-readme-stats.vercel.app/api/pin/?username=lbf38&repo=projet-java-enstab&theme=dark&hide_border=true)](https://github.com/LBF38/projet-java-enstab)
+[![Projet Architecture des Ordinateurs - ENSTA Bretagne](https://github-readme-stats.vercel.app/api/pin/?username=lbf38&repo=projet_VM_archiNum&theme=dark&hide_border=true)](https://github.com/LBF38/projet_VM_archiNum)
 
 ### Personal projects
 Currently working on it. Nothing to show yet.
