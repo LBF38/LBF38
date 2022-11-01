@@ -17,7 +17,7 @@ Currently working on it. Nothing to show yet.
 ## 🔥 Technologies I use
 
 ### Web development
-[![Web Development](https://skillicons.dev/icons?i=html,css,javascript,php,laravel)](https://github.com/lbf38)
+[![Web Development](https://skillicons.dev/icons?i=html,css,javascript,nodejs,php,laravel)](https://github.com/lbf38)
 
 ### Languages I learned for school projects
 [![My Skills](https://skillicons.dev/icons?i=c,java,bash,python,flutter,dart)](https://github.com/lbf38)
