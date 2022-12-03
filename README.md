@@ -46,7 +46,7 @@ Currently working on it. Nothing to show yet.
 ## 📫 How to reach me
 You can contact me by email or through social media. Here are my links:
 
-[![Email me!](https://img.shields.io/badge/Email%20me!-blue?style=plastic&logo=microsoftoutlook&logoColor=white)](mailto:mathis.urien@ensta-bretagne.org)
+[![Email me!](https://img.shields.io/badge/Email%20me!-blue?style=plastic&logo=microsoftoutlook&logoColor=white)](mailto:contact.lbf38@gmail.com)
 
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/mathis-urien)
