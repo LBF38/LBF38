@@ -7,21 +7,35 @@ I'm Mathis URIEN, a software engineer studying at [ENSTA Bretagne](https://www.e
 ## My Projects
 
 ### School projects
-[![Projet C - ENSTA Bretagne](https://github-readme-stats.vercel.app/api/pin/?username=lbf38&repo=projetc&theme=dark&hide_border=true)](https://github.com/lbf38/projetc)
+[![Projet Duel Invaders - ENSTA Bretagne](https://github-readme-stats.vercel.app/api/pin/?username=lbf38&repo=Duel-Invaders&theme=dark&hide_border=true)](https://github.com/LBF38/Duel-Invaders)
 [![Projet Java - ENSTA Bretagne](https://github-readme-stats.vercel.app/api/pin/?username=lbf38&repo=projet-java-enstab&theme=dark&hide_border=true)](https://github.com/LBF38/projet-java-enstab)
 [![Projet Architecture des Ordinateurs - ENSTA Bretagne](https://github-readme-stats.vercel.app/api/pin/?username=lbf38&repo=projet_VM_archiNum&theme=dark&hide_border=true)](https://github.com/LBF38/projet_VM_archiNum)
 [![Workshops Laravel - ENSTA Bretagne](https://github-readme-stats.vercel.app/api/pin/?username=lbf38&repo=Laravel-workshops-ENSTAB&theme=dark&hide_border=true)](https://github.com/LBF38/Laravel-workshops-ENSTAB)
+[![Projet C - ENSTA Bretagne](https://github-readme-stats.vercel.app/api/pin/?username=lbf38&repo=projetc&theme=dark&hide_border=true)](https://github.com/lbf38/projetc)
 
 ### Personal projects
-Currently working on it. Nothing to show yet.
+I learned how to make a simple NodeJS API through the OpenClassroom Go Fullstack course (for the backend):
+
+[![OpenClassroom Go Fullstack - Backend](https://github-readme-stats.vercel.app/api/pin/?username=lbf38&repo=openclassroom-go-fullstack-backend&theme=dark&hide_border=true)](https://github.com/LBF38/openclassroom-go-fullstack-backend)
 
 ## 🔥 Technologies I use
 
 ### Web development
-[![Web Development](https://skillicons.dev/icons?i=html,css,javascript,nodejs,php,laravel)](https://github.com/lbf38)
+[![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/fr/docs/Web/HTML)
+[![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/fr/docs/Web/CSS)
+[![JS](https://skillicons.dev/icons?i=javascript)](https://developer.mozilla.org/fr/docs/Web/JavaScript)
+[![TS](https://skillicons.dev/icons?i=typescript)](https://www.typescriptlang.org/)
+[![NodeJS](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/)
+[![PHP](https://skillicons.dev/icons?i=php)](https://www.php.net/)
+[![Laravel](https://skillicons.dev/icons?i=laravel)](https://laravel.com/)
 
 ### Languages I learned for school projects
-[![My Skills](https://skillicons.dev/icons?i=c,java,bash,python,flutter,dart)](https://github.com/lbf38)
+[![C Language](https://skillicons.dev/icons?i=c)](https://fr.wikipedia.org/wiki/C_(langage))
+[![Bash](https://skillicons.dev/icons?i=bash)](https://www.gnu.org/software/bash/)
+[![Java](https://skillicons.dev/icons?i=java)](https://www.java.com/)
+[![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/)
+[![Dart](https://skillicons.dev/icons?i=dart)](https://dart.dev/)
+[![Flutter](https://skillicons.dev/icons?i=flutter)](https://flutter.dev/)
 
 ### IDE & Dev tools
 [![Visual Studio Code](https://skillicons.dev/icons?i=vscode)](https://vscode.dev/)
@@ -30,7 +44,8 @@ Currently working on it. Nothing to show yet.
 
 
 ### UX/UI Design tools I already used
-[![UX/UI Design tools](https://skillicons.dev/icons?i=figma,xd)](https://github.com/lbf38)
+[![Figma](https://skillicons.dev/icons?i=figma)](https://www.figma.com/)
+[![Adobe XD](https://skillicons.dev/icons?i=xd)](https://www.adobe.com/fr/products/xd.html)
 
 
 ## GitHub Stats
@@ -59,7 +74,7 @@ You can contact me by email or through social media. Here are my links:
 
 - 🌱 I’m currently learning **C, Java, Python and Web Development.**
 
-- 📫 How to reach me **mathis.urien@ensta-bretagne.org**
+- 📫 How to reach me **contact.lbf38@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
