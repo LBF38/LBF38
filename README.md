@@ -12,6 +12,7 @@ I'm Mathis URIEN, a software engineer studying at [ENSTA Bretagne](https://www.e
 [![Projet Architecture des Ordinateurs - ENSTA Bretagne](https://github-readme-stats.vercel.app/api/pin/?username=lbf38&repo=projet_VM_archiNum&theme=dark&hide_border=true)](https://github.com/LBF38/projet_VM_archiNum)
 [![Workshops Laravel - ENSTA Bretagne](https://github-readme-stats.vercel.app/api/pin/?username=lbf38&repo=Laravel-workshops-ENSTAB&theme=dark&hide_border=true)](https://github.com/LBF38/Laravel-workshops-ENSTAB)
 [![Projet C - ENSTA Bretagne](https://github-readme-stats.vercel.app/api/pin/?username=lbf38&repo=projetc&theme=dark&hide_border=true)](https://github.com/lbf38/projetc)
+[![Cours Linux - ENSTA Bretagne](https://github-readme-stats.vercel.app/api/pin/?username=lbf38&repo=linuxcourse&theme=dark&hide_border=true)](https://github.com/lbf38/linuxcourse)
 
 ### Personal projects
 I learned how to make a simple NodeJS API through the OpenClassroom Go Fullstack course (for the backend):
