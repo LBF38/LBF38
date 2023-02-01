@@ -65,7 +65,7 @@ I learned how to make a simple NodeJS API through the OpenClassroom Go Fullstack
 [![My Streaks](https://github-readme-streak-stats.herokuapp.com/?user=lbf38&theme=dark&hide_border=true)](https://github.com/lbf38)
 
 ### My GitHub Trophies
-[![My GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ryo-ma&no-frame=true)](https://github.com/LBF38?tab=achievements)
+[![My GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ryo-ma&no-frame=true&theme=darkhub)](https://github.com/LBF38?tab=achievements)
 
 ## 📫 How to reach me
 You can contact me by email or through social media. Here are my links:
