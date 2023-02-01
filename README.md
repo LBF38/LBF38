@@ -16,6 +16,11 @@ I'm Mathis URIEN, a software engineer studying at [ENSTA Bretagne](https://www.e
 [![Cours Linux - ENSTA Bretagne](https://github-readme-stats.vercel.app/api/pin/?username=lbf38&repo=linuxcourse&theme=dark&hide_border=true)](https://github.com/lbf38/linuxcourse)
 
 ### Personal projects
+
+I made an Aurion Synchronizer to automatically synchronize my Aurion calendar on my preferred calendar application.
+
+[![planningAurion - ENSTA Bretagne](https://github-readme-stats.vercel.app/api/pin/?username=lbf38&repo=planningAurion&theme=dark&hide_border=true)](https://github.com/LBF38/planningAurion)
+
 I learned how to make a simple NodeJS API through the OpenClassroom Go Fullstack course (for the backend):
 
 [![OpenClassroom Go Fullstack - Backend](https://github-readme-stats.vercel.app/api/pin/?username=lbf38&repo=openclassroom-go-fullstack-backend&theme=dark&hide_border=true)](https://github.com/LBF38/openclassroom-go-fullstack-backend)
@@ -59,6 +64,8 @@ I learned how to make a simple NodeJS API through the OpenClassroom Go Fullstack
 
 [![My Streaks](https://github-readme-streak-stats.herokuapp.com/?user=lbf38&theme=dark&hide_border=true)](https://github.com/lbf38)
 
+### My GitHub Trophies
+[![My GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ryo-ma&no-frame=true)](https://github.com/LBF38?tab=achievements)
 
 ## 📫 How to reach me
 You can contact me by email or through social media. Here are my links:
@@ -67,6 +74,16 @@ You can contact me by email or through social media. Here are my links:
 
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/mathis-urien)
+
+## Credits
+
+This README uses the following open source projects : 
+- [Icons](https://skillicons.dev/icons)
+- [Repository cards](https://github.com/anuraghazra/github-readme-stats)
+- [GitHub streak stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+- [My GitHub Trophies](https://github.com/ryo-ma/github-profile-trophy)
+
+
 
 <!--
 
