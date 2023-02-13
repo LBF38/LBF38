@@ -82,8 +82,9 @@ This README uses the following open source projects :
 - [Repository cards](https://github.com/anuraghazra/github-readme-stats)
 - [GitHub streak stats](https://github.com/DenverCoder1/github-readme-streak-stats)
 - [My GitHub Trophies](https://github.com/ryo-ma/github-profile-trophy)
+- [Profile View Count](https://komarev.com/ghpvc)
 
-
+[![Visitor Count](https://komarev.com/ghpvc/?username=lbf38&color=blue)](https://github.com/lbf38)
 
 <!--
 
