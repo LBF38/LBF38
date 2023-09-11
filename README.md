@@ -17,6 +17,10 @@ I'm Mathis URIEN, a software engineer studying at [ENSTA Bretagne](https://www.e
 
 ### Personal projects
 
+I created an [Obsidian](https://obsidian.md) plugin to integrate most [Syncthing](https://syncthing.net) features.
+
+[![Projet Syncthing integration for Obsidian](https://github-readme-stats.vercel.app/api/pin/?username=lbf38&repo=obsidian-syncthing-integration&theme=dark&hide_border=true)](https://github.com/LBF38/obsidian-syncthing-integration)
+
 I made an Aurion Synchronizer to automatically synchronize my Aurion calendar on my preferred calendar application.
 
 [![planningAurion - ENSTA Bretagne](https://github-readme-stats.vercel.app/api/pin/?username=lbf38&repo=planningAurion&theme=dark&hide_border=true)](https://github.com/LBF38/planningAurion)
