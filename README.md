@@ -36,6 +36,8 @@ I learned how to make a simple NodeJS API through the OpenClassroom Go Fullstack
 [![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/fr/docs/Web/CSS)
 [![JS](https://skillicons.dev/icons?i=javascript)](https://developer.mozilla.org/fr/docs/Web/JavaScript)
 [![TS](https://skillicons.dev/icons?i=typescript)](https://www.typescriptlang.org/)
+[![Svelte](https://skillicons.dev/icons?i=svelte)](https://www.svelte.dev/)
+[![GraphQL](https://skillicons.dev/icons?i=graphql)](https://www.graphql.org/)
 [![NodeJS](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/)
 [![PHP](https://skillicons.dev/icons?i=php)](https://www.php.net/)
 [![Laravel](https://skillicons.dev/icons?i=laravel)](https://laravel.com/)
@@ -52,6 +54,7 @@ I learned how to make a simple NodeJS API through the OpenClassroom Go Fullstack
 [![Visual Studio Code](https://skillicons.dev/icons?i=vscode)](https://vscode.dev/)
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com)
 [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
+[![Docker](https://skillicons.dev/icons?i=docker)](https://docker.com/)
 
 
 ### UX/UI Design tools I already used
