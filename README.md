@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Mathis</h1>
 <h3 align="center">A passionate Software engineer student from France</h3>
 
+
+_WIP_
+
+
+<!-- 
+
 ## Who am I ?
 I'm Mathis URIEN, a software engineer studying at [ENSTA Bretagne](https://www.ensta-bretagne.fr/fr), Brest (France).
 
@@ -90,6 +96,8 @@ This README uses the following open source projects :
 - [GitHub streak stats](https://github.com/DenverCoder1/github-readme-streak-stats)
 - [My GitHub Trophies](https://github.com/ryo-ma/github-profile-trophy)
 - [Profile View Count](https://komarev.com/ghpvc)
+
+-->
 
 [![Visitor Count](https://komarev.com/ghpvc/?username=lbf38&color=blue)](https://github.com/lbf38)
 
