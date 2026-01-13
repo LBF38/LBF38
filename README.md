@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mathis</h1>
-<h3 align="center">A passionate Software engineer student from France</h3>
+<h3 align="center">A passionate Software engineer from France</h3>
 
 
 _WIP_
