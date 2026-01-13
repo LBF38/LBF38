@@ -2,9 +2,6 @@
 <h3 align="center">A passionate Software engineer from France</h3>
 
 
-_WIP_
-
-
 <!-- 
 
 ## Who am I ?
